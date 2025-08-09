@@ -17,7 +17,7 @@ cd
 
 ### 3. Download & Jalankan Script
 ```bash
-wget -qO- -O vpsroot.sh https://raw.githubusercontent.com/BangsNgek/JualanSSH/main/vpsroot.sh && bash vpsroot.sh
+wget -qO- -O vpsroot.sh https://raw.githubusercontent.com/Pendetot/VpsRoot/main/vpsroot.sh && bash vpsroot.sh
 ```
 
 ### 4. Masukin Password Baru
